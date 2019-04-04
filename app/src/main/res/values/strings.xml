@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppFragmet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lblbtnFragment1">Fragment 1</string>
+    <string name="lblbtnFragment2">Fragment 2</string>
+    <string name="lbltvFragment1">ESTOY EN EL FRAGMENT 1</string>
+    <string name="lbltvFragment2">ESTOY EN EL FRAGMENT 2</string>
+</resources>
